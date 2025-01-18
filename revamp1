@@ -1,0 +1,273 @@
+<div style="margin:auto;width:600px;">
+<div style="width:600px;height:450px;background:#066083;">
+<div style="float:left;margin:75px 0px 0px 75px;width:450px;height:300px;background:#fff;">
+<div style="float:left;margin:10px 0px 0px 10px;width:430px;height:60px;">
+<div style="float:left;width:430px;height:30px;background:#066083;">
+<div style="margin:4px 0px 0px 5px;line-height:100%;font-family:arial;font-size:24px;font-weight:bold;color:#fff;letter-spacing:-1px;">
+<div>HA-HA! TITLE HERE!</div>
+</div>
+</div>
+
+<div style="float:left;margin:5px 0px 0px 0px;width:430px;">
+<div style="float:left;margin:0px 5px 0px 0px;width:30px;height:30px;line-height:30px;font-family:arial;font-size:40px;font-weight:bold;color:#a03025;text-align:center;">
+<div style="margin:3px 0px 0px 0px;">&ldquo;</div>
+</div>
+
+<div style="line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">Insert a quote here! Please try to keep it at two lines or it might be ugly-looking. :(</div>
+</div>
+</div>
+
+<div style="float:left;margin:10px 0px 0px 0px;width:450px;height:220px;">
+<div style="float:left;margin:0px 0px 0px -35px;width:200px;height:200px;background:#fff;border:1px solid #066083;line-height:0px;">
+<div style="margin:10px 0px 0px 10px;">
+<div style="float:left;width:180px;height:inherit;overflow:hidden;">
+<div style="float:left;width:180px;height:inherit;"><img alt="" src="https://i.imgur.com/ynPL7Il.png" style="float:left;width:180px;height:180px;" /></div>
+</div>
+</div>
+</div>
+
+<div style="float:left;margin:0px 0px 0px 10px;width:260px;height:205px;">
+<div style="float:left;margin:5px 0px 0px 0px;width:260px;height:190px;overflow:hidden;">
+<div style="width:280px;height:190px;overflow:auto;">
+<div style="width:260px;">
+<div style="float:left;width:260px;">
+<div style="float:left;width:260px;height:24px;background:#a03025;">
+<div style="margin:2px 0px 0px 3px;line-height:100%;font-family:arial;font-size:20px;font-weight:bold;color:#fff;letter-spacing:-1px;">BASICS!</div>
+
+<div style="float:left;margin:5px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:260px;height:auto;">
+<div style="float:left;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">FULL NAME</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">DATE OF BIRTH</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">ORIENTATION</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">OCCUPATION</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">BIRTHPLACE</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">HOMETOWN</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">NATIONALITY</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">ETHNICITY</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">RLS&nbsp;STATUS</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="float:left;margin:5px 0px 0px 0px;width:260px;">
+<div style="float:left;width:260px;height:24px;border-top:1px solid #a03025;border-bottom:1px solid #a03025;">
+<div style="margin:2px 0px 0px 2px;line-height:100%;font-family:arial;font-size:20px;font-weight:bold;color:#a03025;letter-spacing:-1px;">ABOUT ME!</div>
+
+<div style="float:left;margin:5px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:260px;height:auto;">
+<div style="float:left;width:260px;height:auto;">
+<div style="float:left;width:inherit;height:auto;background:#fff;border-bottom:1px solid #066083;text-align:center;">
+<div style="margin:5px 4px 5px 0px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#066083;">
+<div>SUBHEADING HERE! Remove if not needed.</div>
+</div>
+</div>
+
+<div style="float:left;margin:5px 0px 0px 0px;width:260px;height:auto;background:#eee;">
+<div style="float:left;margin:3px 3px 3px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;text-align:justify;">
+<div>Please press Enter instead of Shift + Enter. The code won&#39;t break if you do that!</div>
+
+<div>&nbsp;</div>
+
+<div>Looks better too, coding-wise I mean.</div>
+
+<div style="margin-left:20px;">You can also indent if you want. :D</div>
+
+<div>&nbsp;</div>
+
+<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam nulla facilisi cras fermentum odio eu. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Pharetra magna ac placerat vestibulum lectus mauris ultrices. Lectus quam id leo in vitae turpis massa sed elementum. Auctor augue mauris augue neque gravida in. Lacus sed viverra tellus in hac. Euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="float:left;margin:5px 0px 0px 0px;width:260px;">
+<div style="float:left;width:260px;height:24px;background:#a03025;">
+<div style="margin:2px 0px 0px 3px;line-height:100%;font-family:arial;font-size:20px;font-weight:bold;color:#fff;letter-spacing:-1px;">EXTRAS!</div>
+
+<div style="float:left;margin:5px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:260px;height:auto;">
+<div style="float:left;width:260px;height:auto;">
+<div style="float:left;margin:2px 0px 5px 0px;width:260px;height:auto;">
+<div style="margin:0px 3px 0px 3px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;text-align:justify;">
+<div>Some extra info or intro! You can put MBTI, zodiacs, or whatever you like. Delete if you don&#39;t want this section.</div>
+</div>
+</div>
+
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">LIKES</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">DISLIKES</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">HOBBIES</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">HABITS</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+
+<div style="float:left;margin:1px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:auto;height:20px;background:#066083;">
+<div style="margin:5px 4px 0px 4px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#fff;">FEARS</div>
+</div>
+
+<div style="float:left;margin:3px 0px 0px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;">
+<div>Insert here.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="float:left;margin:5px 0px 0px 0px;width:260px;">
+<div style="float:left;width:260px;height:24px;border-top:1px solid #a03025;border-bottom:1px solid #a03025;">
+<div style="margin:2px 0px 0px 2px;line-height:100%;font-family:arial;font-size:20px;font-weight:bold;color:#a03025;letter-spacing:-1px;">OUT OF CHARACTER!</div>
+
+<div style="float:left;margin:5px 0px 0px 0px;width:260px;height:auto;">
+<div style="float:left;width:260px;height:auto;">
+<div style="float:left;width:260px;height:auto;">
+<div style="float:left;margin:5px 0px 0px 0px;width:260px;height:auto;">
+<div style="margin:0px 3px 3px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;text-align:justify;">
+<div>Just a little summary here! Like hello, my name is blah blah blah. Delete if you don&#39;t want it, same for the subheading below.</div>
+</div>
+</div>
+</div>
+
+<div style="float:left;width:inherit;height:auto;background:#fff;border-bottom:1px solid #066083;text-align:center;">
+<div style="margin:5px 4px 5px 0px;line-height:100%;font-family:arial;font-size:11px;font-weight:bold;color:#066083;">
+<div>MORE INFORMATION.</div>
+</div>
+</div>
+
+<div style="float:left;margin:5px 0px 0px 0px;width:260px;height:auto;background:#eee;">
+<div style="margin:3px 3px 3px 5px;line-height:14px;font-family:arial;font-size:12px;font-weight:normal;color:#000;text-align:justify;">
+<div>Type whatever stuff you like here for OOC information.</div>
+
+<div>&nbsp;</div>
+
+<div>Lorem lolipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam nulla facilisi cras fermentum odio eu. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Pharetra magna ac placerat vestibulum lectus mauris ultrices. Lectus quam id leo in vitae turpis massa sed elementum. Auctor augue mauris augue neque gravida in. Lacus sed viverra tellus in hac. Euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
